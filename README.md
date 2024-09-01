@@ -16,7 +16,7 @@ Additionally, utility functions are provided to build messages and retrieve scri
 Simply include the library in your userscript. For example:
 
 ```javascript
-// @require https://path-to-userscript-bridge-library.js
+// @require https://github.com/BBBaden-Moodle-userscripts/UserscriptBridgeLib/raw/main/userscriptBridge.lib.js
 ```
 
 ## 🛠️ Usage
